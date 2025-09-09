@@ -4,7 +4,7 @@ import random
 
 
 # Initialize pygame
-pygame.init()
+pygame.initj()
 
 # Screen dimensions
 WIDTH, HEIGHT = 1000, 800
